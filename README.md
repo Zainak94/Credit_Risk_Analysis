@@ -17,6 +17,7 @@ Used Machine learning models that reduce bias:
 ![image](https://user-images.githubusercontent.com/75701769/116023396-0220da00-a61a-11eb-92c2-18c99c816cfc.png)
 
 Naïve Random Oversampling:
+
 =0.6603423204808787
 =66% Accurate. 
 
@@ -31,14 +32,17 @@ Cluster Centroids:
 =54% Accurate
 
 SMOTEENN:
+
 =0.6365938950069001
 =64% Accurate
 
 Balanced Random Forest Classifier 
+
 =0.7885466545953005
 =79% Accurate.
 
 Easy Ensemble Classifier
+
 =0.9154751595365336
 =92% Accurate.
 
