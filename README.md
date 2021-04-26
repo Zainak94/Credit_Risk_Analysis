@@ -57,30 +57,30 @@ In this technical analysis, Precision for high-risk credit is 0.01 and low risk 
 In this technical analysis, Precision for high-risk credit is 0.01 and low risk is 1.00. While the sensitivity for high-risk is 0.62 and low risk is 0.68. It is highly likely that the credit approval will be guaranteed to the low-risk category, 68% guaranteed. Sensitivity shows that we know that the credit will be denied for high-risk percentage but how likely is it that it will be denied, it is 62% likely that it will detect it to be denied. Classification report is shown below: 
 
 
-![Credit_Risk_Analysis](https://github.com/Zainak94/Credit_Risk_Analysis/blob/main/Resources/ SMOTE.PNG)
+![Credit_Risk_Analysis](https://github.com/Zainak94/Credit_Risk_Analysis/blob/main/Resources/SMOTE.PNG)
 
 •	Cluster Centroids:
 
 In this technical analysis, Precision for high-risk credit is 0.01 and low risk is 1.00. While the sensitivity for high-risk is 0.69 and low risk is 0.40. It is highly likely that the credit approval will be guaranteed to the low-risk category, 40% guaranteed. Sensitivity shows that we know that the credit will be denied for high-risk percentage but how likely is it that it will be denied, it is 69% likely that it will detect it to be denied. Classification report is shown below: 
 
-![Credit_Risk_Analysis](https://github.com/Zainak94/Credit_Risk_Analysis/blob/main/Resources/ Cluster_Centroids.PNG)
+![Credit_Risk_Analysis](https://github.com/Zainak94/Credit_Risk_Analysis/blob/main/Resources/Cluster_Centroids.PNG)
 
 •	SMOTEENN:
 
 In this technical analysis, Precision for high-risk credit is 0.01 and low risk is 1.00. While the sensitivity for high-risk is 0.70 and low risk is 0.57. It is highly likely that the credit approval will be guaranteed to the low-risk category, 57% guaranteed. Sensitivity shows that we know that the credit will be denied for high-risk percentage but how likely is it that it will be denied, it is 70% likely that it will detect it to be denied. Classification report is shown below: 
 
-![Credit_Risk_Analysis](https://github.com/Zainak94/Credit_Risk_Analysis/blob/main/Resources/ SMOTEENN.PNG)
+![Credit_Risk_Analysis](https://github.com/Zainak94/Credit_Risk_Analysis/blob/main/Resources/SMOTEENN.PNG)
 
 •	Balanced Random Forest Classifier: 
 
 In this technical analysis, Precision for high-risk credit is 0.03 and low risk is 1.00. While the sensitivity for high-risk is 0.70 and low risk is 0.87. It is highly likely that the credit approval will be guaranteed to the low-risk category, 87% guaranteed. Sensitivity shows that we know that the credit will be denied for high-risk percentage but how likely is it that it will be denied, it is 70% likely that it will detect it to be denied. Classification report is shown below: 
 
-![Credit_Risk_Analysis](https://github.com/Zainak94/Credit_Risk_Analysis/blob/main/Resources/ Balanced_Random_Forest_Classifier.PNG)
+![Credit_Risk_Analysis](https://github.com/Zainak94/Credit_Risk_Analysis/blob/main/Resources/Balanced_Random_Forest_Classifier.PNG)
 
 •	Easy Ensemble Classifier:
 In this technical analysis, Precision for high-risk credit is 0.05 and low risk is 1.00. While the sensitivity for high-risk is 0.93 and low risk is 0.90. It is highly likely that the credit approval will be guaranteed to the low-risk category, 90% guaranteed. Sensitivity shows that we know that the credit will be denied for high-risk percentage but how likely is it that it will be denied, it is 93% likely that it will detect it to be denied. Classification report is shown below: 
 
-![Credit_Risk_Analysis](https://github.com/Zainak94/Credit_Risk_Analysis/blob/main/Resources/ Easy_Ensemble_Classifier.PNG)
+![Credit_Risk_Analysis](https://github.com/Zainak94/Credit_Risk_Analysis/blob/main/Resources/Easy_Ensemble_Classifier.PNG)
 
 # Summary:
 
